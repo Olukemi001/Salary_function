@@ -114,6 +114,7 @@ This script unzips the employee data archive created by the Python script and di
 ## Example Workflow
 
 1. **Retrieve Employee Data**:
+   - Place the CSV file in the specified path.
    - Run the Python script to view employee details.
    
 2. **Export Data to ZIP**:
